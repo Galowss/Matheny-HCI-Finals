@@ -235,9 +235,11 @@ background: linear-gradient(0deg, #126e20 0%, #d67238 100%);
     }
   }
   
-  h1 {
+ h1 {
     text-transform: uppercase;
     text-align: center;
+    margin-left: 5px;
+    margin-top: 5px;
   }
   
   
